@@ -66,7 +66,7 @@ for i in range(n):
 ```
 
 ## Output:
-![Uploading Screenshot 2026-08-08 150210.png…]()
+![alt text](<Screenshot 2026-08-08 150210.png>)
 
 
 
